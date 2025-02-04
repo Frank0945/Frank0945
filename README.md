@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Trien
+# 👋 Hi, I'm Trien
 
 I am a developer passionate about exploring new knowledge, having worked with various programming technologies, frameworks, and tools. Most of the time, I develop projects independently, covering diverse areas without a fixed domain. However, since I have spent a longer time in web development, it can be considered my main expertise.
 
