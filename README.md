@@ -4,7 +4,7 @@ I am a developer passionate about exploring new knowledge, having worked with va
 
 I am currently preparing to pursue a master's degree in Information Security at National Taipei University of Technology and will continue to expand my knowledge and explore further.
 
-### Intern Experience
+### Internship Experience
 #### Profet AI, Full-Stack Intern, Jul 2023 – Jun 2024
 - Researched and helped implement technologies such as OpenTelemetry and Schema Migration, collaborating with the team to build projects.  
 - Gained a deeper understanding of development environments, including Monorepo, CI/CD, and Docker.  
