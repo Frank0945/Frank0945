@@ -2,7 +2,7 @@
 
 I am a developer passionate about exploring new knowledge, having worked with various programming technologies, frameworks, and tools. Most of the time, I develop projects independently, covering diverse areas without a fixed domain. However, since I have spent a longer time in web development, it can be considered my main expertise.
 
-I am currently preparing to pursue a master's degree in Information Security at National Taipei University of Technology and will continue to expand my knowledge and explore further.
+I am currently attending graduate school for Information Security, and I look forward to further exploring the field and expanding my expertise.
 
 ### Internship Experience
 #### Profet AI, Full-Stack Intern, Jul 2023 – Jun 2024
