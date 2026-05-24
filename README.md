@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trien
+# 👋 Hi, I'm Trevin
 
 I am a developer passionate about exploring new knowledge, having worked with various programming technologies, frameworks, and tools. Most of the time, I develop projects independently, covering diverse areas without a fixed domain. However, my extensive experience in web development has established it as my primary area of expertise.
 
